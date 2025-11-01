@@ -1,18 +1,53 @@
-# 💫 About Me:
-Sou um desenvolvedor web estudante, apaixonado por tecnologia e programação. Tenho grande interesse em linguagens como JavaScript, PHP e SQL, além das estuturas HTML e CSS, e estou sempre aprimorando minhas habilidades para criar soluções inovadoras e eficientes. Busco desafios que me permitam evoluir profissionalmente, explorando novas tecnologias e boas práticas de desenvolvimento para construir aplicações modernas e funcionais.
+# Olá, me chamo Thiago j Gois! 👋
 
+Bem-vindo(a) ao meu perfil do GitHub.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/thiagojgois) 
+## 👨‍💻 Sobre Mim
 
-# 💻 Tech Stack:
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=ThiagoGoisLira&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=ThiagoGoisLira&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGoisLira&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+-   🎓 Atualmente cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas**.
+-   🎓 Técnico em DS pela ETE PE **Técnico em Desenvolvimento de Sistemas**.
+-   🎓 Técnico em ELETROELETRÔNICA pelo IFPE PE **Técnico em Eletroeletrônica**.
+-   🎓 Técnico em ADM pelo IFPE PE **Técnico em Administração**.
+-   🚀 Sou um entusiasta de tecnologia, apaixonado por resolver problemas e construir projetos inovadores.
+-   💡 Tenho interesse em desenvolvimento Full-Stack e estou sempre em busca de novos desafios para aprimorar minhas habilidades.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ThiagoGoisLira&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># ThiagoGoisLira
+## 💻 Tecnologias e Ferramentas
+
+Aqui estão algumas das tecnologias com as quais tenho trabalhado:
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+## 🌱 Atualmente Aprendendo
+
+-   Estou sempre me aprofundando nas tecnologias que já conheço e explorando novas áreas. No momento, meu foco está em:
+-   **Conceitos de Cloud Computing (AWS/Azure)**
+-   **Sistemas micro processaveis e desenvolvimento**
+
+---
+
+## 📫 Como me Encontrar
+
+Você pode me encontrar em outras plataformas ou entrar em contato por e-mail.
+
+<a href="https://linkedin.com/in/thiago-j-gois-2a725236b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="mailto:thiago.gois.lira@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+![Estatísticas do GitHub de ThiagoGoisLira](https://github-readme-stats.vercel.app/api?username=ThiagoGoisLira&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=ThiagoGoisLira&layout=compact&langs_count=8&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
