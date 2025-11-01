@@ -4,10 +4,10 @@ Bem-vindo(a) ao meu perfil do GitHub.
 
 ## 👨‍💻 Sobre Mim
 
--   🎓 Atualmente cursando **Tecnólogo em Análise e Desenvolvimento de Sistemas**.
--   🎓 Técnico em DS pela ETE PE **Técnico em Desenvolvimento de Sistemas**.
--   🎓 Técnico em ELETROELETRÔNICA pelo IFPE PE **Técnico em Eletroeletrônica**.
--   🎓 Técnico em ADM pelo IFPE PE **Técnico em Administração**.
+-   🎓 Atualmente cursando ADS por ESTACIO **Tecnólogo em Análise e Desenvolvimento de Sistemas**.
+-   🎓 Técnico em DS por ETE-PE **Técnico em Desenvolvimento de Sistemas**.
+-   🎓 Técnico em ELETROELETRÔNICA por IFPE **Técnico em Eletroeletrônica**.
+-   🎓 Técnico em ADM por ETE-PE **Técnico em Administração**.
 -   🚀 Sou um entusiasta de tecnologia, apaixonado por resolver problemas e construir projetos inovadores.
 -   💡 Tenho interesse em desenvolvimento Full-Stack e estou sempre em busca de novos desafios para aprimorar minhas habilidades.
 
