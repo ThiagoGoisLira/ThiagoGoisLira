@@ -34,8 +34,10 @@ Aqui estão algumas das tecnologias com as quais tenho trabalhado:
 ## 🌱 Atualmente Aprendendo
 
 -   Estou sempre me aprofundando nas tecnologias que já conheço e explorando novas áreas. No momento, meu foco está em:
--   **Conceitos de Cloud Computing (AWS/Azure)**
--   **Sistemas micro processaveis e desenvolvimento**
+-   **Linguagem python**
+-   **Sistema de gerenciamento de banco de dados SQL (MySQL & postgresql)**
+-   **Arquitetura de dados C**
+
 
 ---
 
