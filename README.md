@@ -1,6 +1,8 @@
 # Olá, me chamo Thiago j Gois! 👋
 
 Bem-vindo(a) ao meu perfil do GitHub.
+## 🌐 Acesso ao Portfólio
+**[Acessar Portfólio Online](https://thiagogoislira.github.io/portfolio/)**
 
 ## 👨‍💻 Sobre Mim
 
